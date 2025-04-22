@@ -1,0 +1,3 @@
+streamlit==1.36.0
+spacy==3.7.4
+python -m spacy download en_core_web_sm
